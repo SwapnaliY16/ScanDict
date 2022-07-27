@@ -1,0 +1,14 @@
+{
+  "googleCloud": {
+    "api": "https://vision.googleapis.com/v1/images:annotate?key=",
+    "apiKey": "your-api-key"
+  },
+  "definitions": {
+    "api": "https://www.dictionaryapi.com/api/v3/references/collegiate/json/",
+    "apiKey": "your-api-key"
+  },
+  "synonymsAntonyms": {
+    "api": "https://www.dictionaryapi.com/api/v3/references/thesaurus/json/",
+    "apiKey": "your-api-key"
+  }
+}
